@@ -14,15 +14,19 @@
   "navigation": {
     "items": [
       {
-        "text": "Introduction",
+        "text": "Welcome",
+        "link": "servicemanager-fundamentals/welcome"
+      },
+      {
+        "text": "Why Service Manager",
         "expand": true,
         "items": [
           {
-            "text": "Welcome",
-            "link": "servicemanager-fundamentals/index"
+            "text": "Todo...",
+            "link": "servicemanager-fundamentals/todo/topics"
           }
         ]
-      }
+      },
     ]
   },
   "tags": []
