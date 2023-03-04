@@ -1,0 +1,29 @@
+{
+  "docId": "servicemanager-fundamentals",
+  "title": "Service Manager Fundamentals",
+  "description": "This book covers the fundamental knowledge you need to know in order to deploy, administer and work with Service Manager",
+  "publicSource": "--publicSource--",
+  "productFamily": "docs",
+  "version": "0.0.1",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "servicemanager-fundamentals/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
