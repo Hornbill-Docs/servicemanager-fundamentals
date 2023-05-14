@@ -1,0 +1,38 @@
+enum:privLevel {
+  base: xs:string
+  map: [
+    none, guest, user, admin  
+  ]
+}
+
+simple:userIdType {
+  base: xs:string
+  pattern: d//*[0-9]
+}
+
+object:groupInfo {
+  name:        type=xs:string
+  description: type=xs:string
+}
+
+object:userInfo {
+  // The unique user id
+  userId:   type=userIdType 
+  name:     type=xs:string 
+  group[]:  type=groupInfo->sp 
+  description: `some really long text that extends over a number 
+               of lines can be achieved by marking the end of the
+               line with a backslash
+               the final line should have no backslash`
+}
+
+object:request {
+  requestId: type=xs:string 
+}
+
+"enum": {
+  name: privLevel,
+  
+
+
+}

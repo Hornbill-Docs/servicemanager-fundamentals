@@ -1,9 +1,9 @@
 {
   "docId": "servicemanager-fundamentals",
   "title": "Service Manager Fundamentals",
-  "description": "This book covers the fundamental knowledge you need to know in order to deploy, administer and work with Service Manager",
+  "description": "The why and what of Service Manager",
   "publicSource": "--publicSource--",
-  "productFamily": "docs",
+  "productFamily": "hdocs",
   "version": "0.0.1",
   "audience": [
     "public"
@@ -14,19 +14,15 @@
   "navigation": {
     "items": [
       {
-        "text": "Welcome",
-        "link": "servicemanager-fundamentals/welcome"
-      },
-      {
-        "text": "Why Service Manager",
+        "text": "Introduction",
         "expand": true,
         "items": [
           {
-            "text": "Todo...",
-            "link": "servicemanager-fundamentals/todo/topics"
+            "text": "Welcome",
+            "link": "servicemanager-fundamentals/index"
           }
         ]
-      },
+      }
     ]
   },
   "tags": []
