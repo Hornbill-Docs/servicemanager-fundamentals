@@ -2,9 +2,9 @@
   "docId": "servicemanager-fundamentals",
   "title": "Service Manager Fundamentals",
   "description": "The why and what of Service Manager",
-  "publicSource": "--publicSource--",
+  "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "audience": [
     "public"
   ],
