@@ -3,8 +3,8 @@
   "title": "Service Manager Fundamentals",
   "description": "The why and what of Service Manager",
   "publicSource": "--publicSource--",
-  "productFamily": "hdocs",
-  "version": "0.0.2",
+  "productFamily": "com.hornbill.servicemanager",
+  "version": "0.0.3",
   "audience": [
     "public"
   ],
