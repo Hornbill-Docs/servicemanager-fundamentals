@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "audience": [
     "public"
   ],
@@ -31,7 +31,78 @@
             ]
           }
         ]
+      },
+      {
+        "text": "Subscription Model",
+        "link":"servicemanager-fundamentals/subscription-model",
+        "draft": true
+      },
+       {
+        "text": "Enterprise Service Management (ESM)",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+      {
+        "text": "Incident Management",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Change Management",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Service Portfolio Management",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Configuration Management",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Self Service",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Automation",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Working with AI",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Customizing the UI",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Reporting and Metrics",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Notification Model",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "Email Integration",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
+      },
+         {
+        "text": "System Integrations",
+        "link":"servicemanager-fundamentals/index",
+        "draft": true
       }
+
     ]
   },
   "tags": []
