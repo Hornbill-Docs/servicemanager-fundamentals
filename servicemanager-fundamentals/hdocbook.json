@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "audience": [
     "public"
   ],
@@ -14,14 +14,24 @@
   "navigation": {
     "items": [
       {
-        "text": "Introduction",
+        "text": "Welcome",
+        "link": "servicemanager-fundamentals/index"
+      },
+      {
+        "text": "About Service Manager",
         "expand": true,
         "items": [
           {
-            "text": "Welcome",
-            "link": "servicemanager-fundamentals/index"
+            "text": "What is Service Manager?",
+            "link": "servicemanager-fundamentals/about/what-is-service-manager"
           },
           {
+            "text": "Subscription Model",
+            "link": "servicemanager-fundamentals/about/subscription-model"
+          }
+         ]
+      },
+      {
             "text": "Service Management",
             "draft": true,
             "items": [
@@ -30,15 +40,8 @@
                 "link": "servicemanager-fundamentals/service-management/service-provider-types"
               }
             ]
-          }
-        ]
       },
       {
-        "text": "Subscription Model",
-        "link":"servicemanager-fundamentals/subscription-model",
-        "draft": true
-      },
-       {
         "text": "Enterprise Service Management (ESM)",
         "link":"servicemanager-fundamentals/index",
         "draft": true
