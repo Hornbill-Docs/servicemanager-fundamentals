@@ -1,7 +1,7 @@
 ---
 layout: article-toc
 ---
-# Service manager fundamentals
+# Service Manager Fundamentals
 
 Service Manager is a cloud-based application that runs on the Hornbill Platform. It provides workflow and automation tools to support your Enterprise Service Management (ESM) and digital transformation goals.
 

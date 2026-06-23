@@ -37,76 +37,83 @@
             "items": [
               {
                 "text": "Service Providers",
-                "link": "servicemanager-fundamentals/service-management/service-provider-types"
+                "link": "servicemanager-fundamentals/service-management/service-provider-types",
+                "draft": true
+              },
+              {
+                "text": "Enterprise Service Management (ESM)",
+                "link": "servicemanager-fundamentals/coming-soon",
+                "draft": true
               }
             ]
       },
       {
-        "text": "Enterprise Service Management (ESM)",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
+        "text": "Incident Management",
+        "draft": true,
+        "items": [
+              {
+                "text": "Overview",                 
+                "link": "servicemanager-fundamentals/incident-management/overview",
+                "draft": true
+              }
+           ]
       },
       {
-        "text": "Incident Management",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
-      },
-         {
         "text": "Change Management",
-        "link":"servicemanager-fundamentals/index",
+        "link": "servicemanager-fundamentals/coming-soon",
         "draft": true
       },
          {
         "text": "Service Portfolio Management",
-        "link":"servicemanager-fundamentals/index",
+        "link": "servicemanager-fundamentals/coming-soon",
         "draft": true
       },
          {
         "text": "Configuration Management",
-        "link":"servicemanager-fundamentals/index",
+        "link": "servicemanager-fundamentals/coming-soon",
         "draft": true
       },
-         {
+      {
+        "text": "Asset Management",
+        "draft": true,
+        "items": [
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/coming-soon"
+          }
+        ]
+      },
+      {
         "text": "Self Service",
-        "link":"servicemanager-fundamentals/index",
+        "link": "servicemanager-fundamentals/coming-soon",
         "draft": true
       },
-         {
-        "text": "Automation",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
-      },
-         {
-        "text": "Working with AI",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
-      },
-         {
-        "text": "Customizing the UI",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
-      },
-         {
+      {
+        "text": "Working with HAi",
+        "draft": true,
+        "items": [
+          {
+           "text": "HAi Overview",
+           "link":"servicemanager-fundamentals/hai/hai-overview",
+           "draft": true
+          },
+          {
+            "text": "Generative HAi",
+            "link": "servicemanager-fundamentals/hai/generative-hai",
+            "draft": true
+          }
+        ]
+      }, 
+      {
         "text": "Reporting and Metrics",
-        "link":"servicemanager-fundamentals/index",
+        "link": "servicemanager-fundamentals/coming-soon",
         "draft": true
       },
-         {
-        "text": "Notification Model",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
-      },
-         {
-        "text": "Email Integration",
-        "link":"servicemanager-fundamentals/index",
-        "draft": true
-      },
-         {
-        "text": "System Integrations",
-        "link":"servicemanager-fundamentals/index",
+      {
+        "text": "Integration",
+        "link": "servicemanager-fundamentals/coming-soon",
         "draft": true
       }
-
     ]
   },
   "tags": []
