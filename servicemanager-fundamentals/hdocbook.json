@@ -60,18 +60,36 @@
       },
       {
         "text": "Change Management",
-        "link": "servicemanager-fundamentals/coming-soon",
-        "draft": true
+        "draft": true,
+        "items":[
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/coming-soon",
+            "draft": true
+          }
+        ]
       },
-         {
+      {
         "text": "Service Portfolio Management",
-        "link": "servicemanager-fundamentals/coming-soon",
-        "draft": true
+        "draft": true,
+        "items": [
+          {
+          "text": "Overview",
+          "link": "servicemanager-fundamentals/coming-soon",
+          "draft": true
+          }
+        ]
       },
-         {
+      {
         "text": "Configuration Management",
-        "link": "servicemanager-fundamentals/coming-soon",
-        "draft": true
+        "draft": true,
+        "items": [
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/coming-soon",
+            "draft": true
+          }
+        ]
       },
       {
         "text": "Asset Management",
@@ -85,8 +103,13 @@
       },
       {
         "text": "Self Service",
-        "link": "servicemanager-fundamentals/coming-soon",
-        "draft": true
+        "draft": true,
+        "items": [
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/coming-soon"
+          }
+       ]
       },
       {
         "text": "Working with HAi",
@@ -106,13 +129,25 @@
       }, 
       {
         "text": "Reporting and Metrics",
-        "link": "servicemanager-fundamentals/coming-soon",
-        "draft": true
+        "draft":true,
+        "items": [
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/coming-soon",
+            "draft": true
+          }
+        ]
       },
       {
         "text": "Integration",
-        "link": "servicemanager-fundamentals/coming-soon",
-        "draft": true
+        "draft": true,
+        "items": [
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/coming-soon",
+            "draft": true
+          }
+        ]
       }
     ]
   },

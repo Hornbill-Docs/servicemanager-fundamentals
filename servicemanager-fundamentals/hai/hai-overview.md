@@ -1,12 +1,27 @@
 # HAi Overview
 
-HAi helps you manage service desk tasks by acting as a digital assistant. It helps you resolve tickets faster by summarizing information and suggesting solutions within your workspace.
+:::info
+HAi features are currently part of a closed beta. Please speak to your Customer Success representative if you would like to take part.
+:::
 
-HAi helps manage routine actions, and provides real-time context to human agents. This allows support teams to resolve issues faster and focus on complex problem-solving.
+## What is HAi?
 
-Generative AI assists with the following functions:
+In Hornbill, HAi (Hornbill AI) is a suite of AI-driven tools and generative AI features designed to automate routine tasks and assist service desk agents. It leverages large language models (such as OpenAI and Azure OpenAI) to speed up ticket resolutions and reduce agent workloads.
 
-* **Ticket summarization**: Generative AI creates brief summaries of long email threads and previous user interactions. This allows you to understand the issue quickly without reading every message.
-* **Knowledge retrieval**: The system searches internal documents and past tickets to suggest the best steps for resolution. It provides step-by-step guides directly in your interface.
-* **Response drafting**: The tool suggests professional replies to users. You can review and edit these drafts before you send them.
-* **Knowledge base creation**: When you solve a new issue, the AI can turn the solution into a draft article. This helps your team use the information for future tickets.
+## How does it help service desk agents?
+
+Key features and capabilities include:
+
+* **Text Assist**: Automates content generation and formatting. Agents can instantly improve grammar, shorten text, convert paragraphs into bulleted lists, or adjust the tone of emails (e.g., to be professional, friendly, technical, or apologetic).
+* **Ask HAi**: Provides instant, step-by-step solutions to common issues by letting agents enter conversational prompts directly into the system.
+* **HAi Agent Assistant**: Acts as a conversational AI that surfaces relevant knowledge, next actions, and historical context right within the platform without needing manual searches.
+* **AI-Generated Knowledge**: Helps capture service activity and automatically turns it into reusable knowledge base articles for faster self-service resolution.
+* **Value Dashboard**: Tracks how much time and effort your organization is saving by utilizing these generative AI capabilities.
+
+## Where is it?
+
+HAi features throughout Service Manager can be identified by the HAi logo.  Look for this logo on the different forms and views when working within Service Manager.
+
+![HAi logo](/_books/servicemanager-fundamentals/images/hai-logo-small.png)
+
+Locations will vary as each HAi feature can be enabled or disabled by a Hornbill administrator.  
