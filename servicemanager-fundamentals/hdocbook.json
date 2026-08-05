@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "audience": [
     "public"
   ],
@@ -113,17 +113,24 @@
       },
       {
         "text": "Working with HAi",
-        "draft": true,
+        "draft": false,
         "items": [
           {
            "text": "HAi Overview",
-           "link":"servicemanager-fundamentals/hai/hai-overview",
-           "draft": true
+           "link":"servicemanager-fundamentals/hai/hai-overview"
           },
           {
             "text": "Generative HAi",
             "link": "servicemanager-fundamentals/hai/generative-hai",
             "draft": true
+          },
+          {
+            "text": "Usage Policy",
+            "link": "servicemanager-fundamentals/hai/hai-usage-policy"
+          },
+          {
+            "text": "Sustainability",
+            "link": "servicemanager-fundamentals/hai/hai-sustainability-policy"
           }
         ]
       }, 
