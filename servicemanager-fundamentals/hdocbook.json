@@ -54,8 +54,39 @@
         "items": [
           {
             "text": "Overview",
-            "link": "servicemanager-fundamentals/incident-management/overview",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/overview"
+          },
+          {
+            "text": "Raising Incidents",
+            "link": "servicemanager-fundamentals/incident-management/raising-incidents"
+          },
+          {
+            "text": "Understanding and Categorizing Incidents",
+            "link": "servicemanager-fundamentals/incident-management/understanding-categorizing-incidents"
+          },
+          {
+            "text": "Diagnosis and Collaboration",
+            "link": "servicemanager-fundamentals/incident-management/diagnosis-and-collaboration"
+          },
+          {
+            "text": "Major Incidents",
+            "link": "servicemanager-fundamentals/incident-management/major-incidents"
+          },
+          {
+            "text": "Assignments, Notifications, and Service Levels",
+            "link": "servicemanager-fundamentals/incident-management/assignments-notifications-service-levels"
+          },
+          {
+            "text": "Self Service for Users",
+            "link": "servicemanager-fundamentals/incident-management/self-service"
+          },
+          {
+            "text": "Resolution and Closure",
+            "link": "servicemanager-fundamentals/incident-management/resolution-closure"
+          },
+          {
+            "text": "Reporting and Continuous Improvement",
+            "link": "servicemanager-fundamentals/incident-management/reporting-continuous-improvement"
           }
         ]
       },
