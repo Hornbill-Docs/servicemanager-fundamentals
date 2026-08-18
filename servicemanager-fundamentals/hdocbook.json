@@ -129,7 +129,39 @@
         "items": [
           {
             "text": "Overview",
-            "link": "servicemanager-fundamentals/coming-soon"
+            "link": "servicemanager-fundamentals/asset-management/asset-management-overview"
+          },
+          {
+            "text": "Understanding your estate",
+            "link": "servicemanager-fundamentals/asset-management/understanding-your-estate"
+          },
+          {
+            "text": "Building the asset register",
+            "link": "servicemanager-fundamentals/asset-management/building-the-asset-register"
+          },
+          {
+            "text": "Classification and structure",
+            "link": "servicemanager-fundamentals/asset-management/classification-and-structure"
+          },
+          {
+            "text": "Procurement, vendors, and inventory",
+            "link": "servicemanager-fundamentals/asset-management/procurement-vendors-and-inventory"
+          },
+          {
+            "text": "Keeping assets connected to your processes",
+            "link": "servicemanager-fundamentals/asset-management/keeping-assets-connected-to-your-processes"
+          },
+          {
+            "text": "Software and mobile asset management",
+            "link": "servicemanager-fundamentals/asset-management/software-and-mobile-asset-management"
+          },
+          {
+            "text": "End of life disposal",
+            "link": "servicemanager-fundamentals/asset-management/end-of-life-disposal"
+          },
+           {
+            "text": "Access control",
+            "link": "servicemanager-fundamentals/asset-management/access-control"
           }
         ]
       },
