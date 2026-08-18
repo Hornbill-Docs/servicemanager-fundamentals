@@ -19,8 +19,8 @@ Before you start managing your assets, ensure you have the correct permissions t
 
 2. **Identify your technical requirements**
     Determine if you need to set up the system or perform daily tasks.
-    * If you are an administrator who needs to tailor the application, use the [Service Manager Configuration Guide](https://docs.hornbill.com/servicemanager-config/index).
-    * If you are a service desk agent or an end user performing daily tasks, use the [Service Manager User Guide](https://docs.hornbill.com/servicemanager-user-guide/index).
+    * If you are an administrator who needs to tailor the application, use the [Service Manager Configuration Guide](/servicemanager-config/index).
+    * If you are a service desk agent or an end user performing daily tasks, use the [Service Manager User Guide](/servicemanager-user-guide/index).
 
 3. **Access the detailed documentation**
     Select the links provided in each section to open the relevant technical documentation. These guides provide the specific steps your technical teams need to follow.
