@@ -1,9 +1,20 @@
 # Incident Management Overview
 
-Incident management is at the heart of any service desk, and it needs to work the way your organization works. This document walks through the core capabilities of Hornbill Service Manager that support effective incident management, from the moment an issue is first reported through to resolution, closure, and continuous improvement.
+Incident management is the central process of your service desk. Hornbill Service Manager allows you to tailor this process to match the specific needs of your organization.
 
-Each topic below gives a short, plain-language explanation of how Hornbill supports that capability, along with links to the relevant Hornbill Configuration and User Guides so your technical teams can explore the detail whenever they are ready.
+This guide explains the core capabilities of Hornbill Service Manager. You will learn how the system supports you from the initial report of an issue through to its resolution, closure, and continuous improvement.
 
-The two guides referenced throughout are the [Service Manager Configuration Guide](/servicemanager-config/index), aimed at administrators setting up and tailoring the application, and the [Service Manager User Guide](/servicemanager-user-guide/index), which covers day-to-day use by your service desk and end users.
+## Understand incident management
 
-Incident management is a critical process in IT service management (ITSM) that focuses on restoring normal service operation as quickly as possible following an incident, while minimizing the impact on business operations. An incident is defined as an unplanned interruption to an IT service or a reduction in the quality of an IT service. The goal of incident management is to ensure that incidents are resolved efficiently and effectively, while also providing a positive experience for users.
+Incident management restores normal service operation as quickly as possible. This process minimizes the impact on business operations when an unplanned interruption or a reduction in service quality occurs.
+
+The goal of incident management is to resolve issues efficiently while providing a positive experience for your users.
+
+## Key resources
+
+You can refer to two primary resources to help you set up and use the platform:
+
+* [Service Manager Configuration Guide](/servicemanager-config/index): This guide helps administrators set up and tailor the application.
+* [Service Manager User Guide](/servicemanager-user-guide/index): This guide covers day-to-day tasks for service desk staff and end users.
+
+The following sections provide clear explanations of Service Manager's incident management capabilities. Each topic includes links to the relevant configuration and user guides so your technical teams can explore the details when they are ready.
