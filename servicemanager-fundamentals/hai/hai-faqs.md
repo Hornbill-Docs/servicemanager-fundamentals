@@ -32,7 +32,7 @@ HAi handles high traffic and peak loads by relying on the scalable cloud infrast
 
 ### How does HAi scale to accommodate increasing amounts of data or users?
 
-Yes, HAi is built on a cloud-native SaaS architecture designed to scale horizontally and accommodate growing enterprise user bases and data demands.
+HAi is built on a cloud-native SaaS architecture designed to scale horizontally and accommodate growing enterprise user bases and data demands.
 
 ### How is system availability maintained?
 
