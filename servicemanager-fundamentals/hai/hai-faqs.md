@@ -236,15 +236,21 @@ The Addendum also states that the Customer is responsible for providing transpar
 
 ### How can incorrect personal data be updated?
 
+The HAI Addendum does not specify a separate HAI process for correcting personal data or handling data-subject rectification requests. 
+
+As personal data resides in areas of Hornbill, outside of HAi, it is the responsibility of the customer to maintain their data across Hornbill.
+
 ### How can personal data be erased?
+
+HAi does not retain a separate memory of personal data from previous interactions, and Customer Data is not used to train the underlying AI models. HAi processes each request using the relevant data available within Hornbill at the time the request is made.
+
+As a result, there is no separate HAi data store from which personal data needs to be erased. Personal data is managed and retained within Hornbill in accordance with the Customer's established data-management and retention processes.
 
 ### How can the processing of personal data be stopped or restricted?
 
 HAi provides customer-level controls that allow administrators to enable or disable HAi features and control which users are permitted to use HAi. Where supported, customers can also restrict the information made available to HAi to defined subsets of data.
 
 These controls allow the Customer to restrict use of HAi and the data made available to it at an organizational or user-access level. However, HAi does not provide a mechanism to restrict the processing of an individual data subject's data independently of the applicable user or data-access controls.
-
-### How is data portability supported?
 
 ### How can individuals object to the processing of their personal data?
 
