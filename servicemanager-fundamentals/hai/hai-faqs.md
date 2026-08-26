@@ -58,7 +58,7 @@ HAi is managed by Hornbill Administrators with the appropriate roles and permiss
 
 Hornbill provides comprehensive documentation and online training to support the use of HAi, including technical reference information, guidance and best practices.
 
-Hornbill Documentation provides [technical reference information](https://docs.hornbill.com/servicemanager-config/administration/hai) and [guidance](https://docs.hornbill.com/servicemanager-user-guide/hai/overview), while the [Hornbill Academy](https://academy.hornbill.com) provides structured online learning.
+Hornbill Documentation provides [technical reference information](/_books/servicemanager-config/administration/hai) and [guidance](/_books/servicemanager-user-guide/hai/overview), while the [Hornbill Academy](https://academy.hornbill.com) provides structured online learning.
 
 Hornbill Administrators are required to complete a relevant Learning Path before HAi is activated, ensuring they understand the prerequisites, controls, the context of AI for Service Management, and their responsibilities and associated risks.
 
