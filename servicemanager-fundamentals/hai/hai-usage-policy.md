@@ -30,7 +30,7 @@ in each case as same may be updated from time to time (collectively the "Microso
 If you are configured to use OpenAI then you usage of HAI is subject to certain terms and conditions imposed by OpenAI relating to product access and related products and functionality, including, without limitation, those set forth at
 
 * [OpenAI Usage Policy](https://openai.com/policies/usage-policies/)
-* [OpenAI Additional Terms & Policies](https://openai.com/policies/)
+* [OpenAI Additional Terms & Policies](https://openai.com/policies)
 * any restrictions on use described in [OpenAI's related documentation](https://platform.openai.com/docs/introduction)
 
 in each case as same may be updated from time to time (collectively the "OpenAI Terms"), and Customer consents to the processing of Personal Data as set forth in the OpenAI Terms.
