@@ -8,8 +8,6 @@ layout: article-toc
 
 These FAQs, grouped by topic, are designed to support queries regarding the HAi model and how HAi operates. 
 
-For existing customers, please also refer to your existing contractual arrangements, and/or the HAI addendum.
-
 HAi uses third-party AI Providers, including OpenAI and Azure OpenAI, for certain AI capabilities.
 
 Hornbill is responsible for the HAi application, including the data and context supplied to the AI service, application-level access controls, orchestration, guardrails, human approval mechanisms and auditability.
@@ -17,6 +15,10 @@ Hornbill is responsible for the HAi application, including the data and context 
 The third-party AI Provider is responsible for the underlying AI model, including its model training, model-level safety controls and model-level fairness and bias evaluation. 
 
 The respective responsibilities are governed by the applicable contractual and data-processing arrangements.
+
+## Hornbill AI Usage Policy
+
+The usage of Hornbill AI is governed by the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf), as well as section 3.4 of the [Hornbill Subscription Agreement](https://www.hornbill.com/subscription-agreements) however HAI is subject to additional terms based on which [HAi Provider](/servicemanager-config/administration/hai-providers) is being used, Azure AI Services or OpenAI.
 
 ## Performance and Scalability
 
@@ -86,7 +88,7 @@ Human oversight is required for HAi-generated recommendations and content before
 
 HAi can generate suggestions, proposed actions and content, but the user remains responsible for reviewing and approving the resulting action. For example, HAi may generate a customer email, suggest a resolution to a service request, or create a draft knowledge article based on a resolved request. The user can review, amend, approve or reject the recommendation before it is used or applied.
 
-The HAI Addendum requires customers to implement sufficient human oversight for their use of HAi and specifically prohibits certain consequential decisions being made solely on the basis of HAi output.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) requires customers to implement sufficient human oversight for their use of HAi and specifically prohibits certain consequential decisions being made solely on the basis of HAi output.
 
 ### How can users review and override HAi recommendations or proposed actions?
 
@@ -96,7 +98,7 @@ For example, HAi may recommend sending an email to a customer and generate a dra
 
 Similarly, where HAi generates written content, such as a draft email or knowledge article, the user can review and amend the content before it is used.
 
-The HAI Addendum also expressly requires appropriate human oversight and prohibits using HAi as the sole basis for decisions that may materially affect an individual's legal rights, employment, financial position, health, safety or access to essential services without appropriate human review and oversight.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) also expressly requires appropriate human oversight and prohibits using HAi as the sole basis for decisions that may materially affect an individual's legal rights, employment, financial position, health, safety or access to essential services without appropriate human review and oversight.
 
 ### What AI technologies and methodologies does HAi use?
 
@@ -142,9 +144,9 @@ It is important to distinguish transparency and auditability from full technical
 
 ### How does HAi address fairness in AI-generated outputs?
 
-The HAI Addendum acknowledges that AI and machine-learning technologies have known and unknown risks and limitations, including potential lack of fairness. It does not specify a particular methodology for ensuring fairness in the underlying AI models.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) acknowledges that AI and machine-learning technologies have known and unknown risks and limitations, including potential lack of fairness. It does not specify a particular methodology for ensuring fairness in the underlying AI models.
 
-The Addendum requires sufficient human oversight for the use of HAI and prohibits HAI from being used as the sole basis for certain decisions that may materially affect an individual's legal rights, employment, financial position, health, safety or access to essential services without appropriate human review and oversight.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) requires sufficient human oversight for the use of HAI and prohibits HAI from being used as the sole basis for certain decisions that may materially affect an individual's legal rights, employment, financial position, health, safety or access to essential services without appropriate human review and oversight.
 
 For related information published by OpenAI, see:
 
@@ -156,7 +158,7 @@ For related information published by OpenAI, see:
 
 The underlying AI models are provided by third-party AI Providers, who are responsible for model-level evaluation and mitigation of bias and harmful or discriminatory behavior. OpenAI, for example, publishes information about its approach to fairness and bias evaluation as part of its model safety and evaluation processes. See OpenAI: Evaluating fairness in ChatGPT.
 
-Hornbill does not independently represent that the underlying model has been specifically validated against every protected characteristic listed in this questionnaire. The HAI Addendum recognizes that AI technologies have known and unknown limitations, including potential bias and lack of fairness, and requires appropriate human oversight.
+Hornbill does not independently represent that the underlying model has been specifically validated against every protected characteristic listed in this questionnaire. The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) recognizes that AI technologies have known and unknown limitations, including potential bias and lack of fairness, and requires appropriate human oversight.
 
 Customers should therefore apply appropriate organizational policies and human review when using HAi in circumstances where bias or discrimination could have material consequences.
 
@@ -166,7 +168,7 @@ HAi provides several mechanisms for identifying and mitigating potentially harmf
 
 The 2026 release of HAi provides Hornbill Administrators with the ability to define and manage guardrails, to help prevent or limit potentially harmful or inappropriate AI outputs. Hornbill provides out-of-the-box guardrails covering basic safeguarding requirements, and customers can define additional guardrails according to their organizational, compliance and HR requirements.
 
-HAi also provides auditability of AI interactions to support investigation of reported issues. Under the HAI Addendum, customers can report inaccurate, unsafe, harmful, biased, unfair or inappropriate outputs to Hornbill for investigation and product improvement.
+HAi also provides auditability of AI interactions to support investigation of reported issues. Under the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf), customers can report inaccurate, unsafe, harmful, biased, unfair or inappropriate outputs to Hornbill for investigation and product improvement.
 
 Customers should work with their relevant compliance, HR and governance teams to establish appropriate controls and review them as required.
 
@@ -182,13 +184,13 @@ OpenAI also operates feedback and reporting mechanisms for model behavior and us
 
 ### What security measures and controls are in place for HAi?
 
-The HAI Addendum requires Hornbill to maintain appropriate technical and organizational measures to support the monitoring and investigation of HAI activities. Hornbill may also implement security controls and may suspend or restrict access to HAI where reasonably necessary to protect the security, integrity or availability of the service, investigate or prevent suspected misuse or unlawful activity, comply with applicable law, or undertake maintenance or remediation activities.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) requires Hornbill to maintain appropriate technical and organizational measures to support the monitoring and investigation of HAI activities. Hornbill may also implement security controls and may suspend or restrict access to HAI where reasonably necessary to protect the security, integrity or availability of the service, investigate or prevent suspected misuse or unlawful activity, comply with applicable law, or undertake maintenance or remediation activities.
 
-The HAI Addendum does not provide a detailed description of Hornbill's underlying security architecture or individual security controls.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) does not provide a detailed description of Hornbill's underlying security architecture or individual security controls.
 
 ### What measures and controls help protect HAi against unauthorized access or data breaches?
 
-The HAI Addendum does not provide a detailed description of Hornbill's technical measures for preventing unauthorized access or responding to data breaches.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) does not provide a detailed description of Hornbill's technical measures for preventing unauthorized access or responding to data breaches.
 
 It does state that Hornbill may implement security controls and may suspend or restrict HAI access where reasonably necessary to protect the security, integrity or availability of the service or to investigate or prevent suspected misuse or unlawful activity.
 
@@ -202,9 +204,9 @@ These records support operational investigation, security monitoring and regulat
 
 ### How does HAi support data integrity and consistency?
 
-The HAI Addendum requires Hornbill to maintain appropriate technical and organizational measures in relation to HAI and permits Hornbill to implement controls or restrict access where reasonably necessary to protect the security, integrity or availability of the service.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) requires Hornbill to maintain appropriate technical and organizational measures in relation to HAI and permits Hornbill to implement controls or restrict access where reasonably necessary to protect the security, integrity or availability of the service.
 
-However, the HAI Addendum does not specify the technical mechanisms used to ensure data integrity or consistency, such as validation, checksums, transactional controls or reconciliation processes. Those details are therefore outside the scope of the HAI Addendum.
+However, the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) does not specify the technical mechanisms used to ensure data integrity or consistency, such as validation, checksums, transactional controls or reconciliation processes. Those details are therefore outside the scope of the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf).
 
 ## Compliance
 
@@ -216,27 +218,27 @@ Certifications applicable to the underlying AI service apply to the relevant AI 
 
 OpenAI publishes information regarding its security and compliance certifications and controls, including SOC 2 Type 2 and ISO/IEC 27001, ISO/IEC 27017, ISO/IEC 27018, ISO/IEC 27701 and ISO/IEC 42001, as applicable to its services. For information, see OpenAI Security & Privacy.
 
-HAi is governed by Hornbill's Subscription Agreement, applicable Data Processing terms and HAI Addendum, which incorporates the GDPR, UK GDPR and Data Protection Act 2018 into the applicable Data Protection Legislation governing HAi.
+HAi is governed by Hornbill's Subscription Agreement, applicable Data Processing terms and [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf), which incorporates the GDPR, UK GDPR and Data Protection Act 2018 into the applicable Data Protection Legislation governing HAi.
 
 ### How does HAi support data privacy and data-protection requirements?
 
-The HAI Addendum defines applicable Data Protection Legislation as including the GDPR, UK GDPR and Data Protection Act 2018.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) defines applicable Data Protection Legislation as including the GDPR, UK GDPR and Data Protection Act 2018.
 
 Where Customer Data contains Protected Data, the Customer instructs Hornbill to process that data for the additional purpose of providing HAI functionality and HAI Output. 
 
 Hornbill uses AI Providers, including OpenAI and Azure OpenAI, to provide certain HAI functionality.
 
-The HAI Addendum also places restrictions on the types of data that may be submitted to HAI unless the relevant HAI capability expressly supports its processing, and sets out requirements governing the use of Customer Data for improving HAI and AI model training.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) also places restrictions on the types of data that may be submitted to HAI unless the relevant HAI capability expressly supports its processing, and sets out requirements governing the use of Customer Data for improving HAI and AI model training.
 
 ### How is information about the use of personal data provided?
 
-The HAI Addendum provides contractual information about the processing of Customer Data in connection with HAI, including the use of Customer Data as Input to HAI and the use of AI Providers to provide certain HAI functionality.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) provides contractual information about the processing of Customer Data in connection with HAI, including the use of Customer Data as Input to HAI and the use of AI Providers to provide certain HAI functionality.
 
-The Addendum also states that the Customer is responsible for providing transparency and explainability notices required by applicable law.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) also states that the Customer is responsible for providing transparency and explainability notices required by applicable law.
 
 ### How can incorrect personal data be updated?
 
-The HAI Addendum does not specify a separate HAI process for correcting personal data or handling data-subject rectification requests. 
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) does not specify a separate HAI process for correcting personal data or handling data-subject rectification requests. 
 
 As personal data resides in areas of Hornbill, outside of HAi, it is the responsibility of the customer to maintain their data across Hornbill.
 
@@ -260,18 +262,18 @@ Customers remain responsible for assessing and responding to objections to proce
 
 HAi is designed to provide human oversight rather than make consequential decisions about individuals without human involvement.
 
-The HAI Addendum expressly prohibits HAi being used as the sole basis for decisions that may materially affect an individual's legal rights, employment, financial position, health, safety or access to essential services without appropriate human review and oversight.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) expressly prohibits HAi being used as the sole basis for decisions that may materially affect an individual's legal rights, employment, financial position, health, safety or access to essential services without appropriate human review and oversight.
 
 ### How does HAi address profiling?
 
 HAi generates responses and recommendations based on the Input and contextual information provided to the relevant HAi capability.
 
-The HAI Addendum places responsibility on the Customer for establishing appropriate internal policies for the use of AI, ensuring that its use of HAI complies with applicable law, and providing required transparency notices and obtaining necessary consents.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) places responsibility on the Customer for establishing appropriate internal policies for the use of AI, ensuring that its use of HAI complies with applicable law, and providing required transparency notices and obtaining necessary consents.
 
 ### How does Hornbill maintain compliance as regulations and requirements evolve?
 
-The HAI Addendum provides for updates to the HAI Terms where required, including updates required by law. 
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) provides for updates to the HAI Terms where required, including updates required by law. 
 
-Where a modification materially affects the Customer's rights or obligations, Hornbill will provide at least 30 days' prior written notice before the modification takes effect, subject to the exceptions set out in the Addendum.
+Where a modification materially affects the Customer's rights or obligations, Hornbill will provide at least 30 days' prior written notice before the modification takes effect, subject to the exceptions set out in the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf).
 
-The Addendum also permits Hornbill to modify, replace or discontinue third-party AI models, providers, services or technology where reasonably necessary for legal or regulatory reasons.
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) also permits Hornbill to modify, replace or discontinue third-party AI models, providers, services or technology where reasonably necessary for legal or regulatory reasons.
