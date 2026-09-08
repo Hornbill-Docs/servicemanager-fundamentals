@@ -6,7 +6,7 @@ layout: article-toc
 
 ## Overview
 
-These FAQs, grouped by topic, are designed to support queries regarding the HAi model and how HAi operates. 
+These FAQs, grouped by topic, are designed to support queries regarding the Hornbill AI (HAi) model and how HAi operates. 
 
 HAi uses third-party AI Providers, including OpenAI and Azure OpenAI, for certain AI capabilities.
 
@@ -19,6 +19,14 @@ The respective responsibilities are governed by the applicable contractual and d
 ## Hornbill AI Usage Policy
 
 The usage of Hornbill AI is governed by the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf), as well as section 3.4 of the [Hornbill Subscription Agreement](https://www.hornbill.com/subscription-agreements) however HAI is subject to additional terms based on which [HAi Provider](/servicemanager-config/administration/hai-providers) is being used, Azure AI Services or OpenAI.
+
+## Current status and availability
+
+As of Q3'26, HAi is available to a closed group of customers who are providing feedback and usage date to Hornbill for HAi optimization. We expect HAi General Availability (GA) to be Q4'26. 
+
+HAi terms will be part of standard contracts for new customers. 
+
+Existing customers will be required to sign the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) and complete a Hornbill Academy Learning Path before HAi is enabled in their instances.
 
 ## Performance and Scalability
 
