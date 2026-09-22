@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "1.1.0",
+  "version": "1.2.0",
 
   "audience": [
     "public"
@@ -61,8 +61,7 @@
           },
           {
             "text": "Understanding and Categorizing Incidents",
-            "link": "servicemanager-fundamentals/incident-management/understanding-categorizing-incidents",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/understanding-categorizing-incidents"
           },
           {
             "text": "Diagnosis and Collaboration",
