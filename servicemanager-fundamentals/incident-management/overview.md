@@ -12,9 +12,7 @@ The goal of incident management is to resolve issues efficiently while providing
 
 ## Key resources
 
-You can refer to two primary resources to help you set up and use the platform:
+You can refer to two primary resources to help you set up and use Service Manager:
 
 * [Service Manager Configuration Guide](/servicemanager-config/index): This guide helps administrators set up and tailor the application.
 * [Service Manager User Guide](/servicemanager-user-guide/index): This guide covers day-to-day tasks for service desk staff and end users.
-
-The following sections provide clear explanations of Service Manager's incident management capabilities. Each topic includes links to the relevant configuration and user guides so your technical teams can explore the details when they are ready.
