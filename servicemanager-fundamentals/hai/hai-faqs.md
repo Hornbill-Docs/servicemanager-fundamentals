@@ -6,13 +6,13 @@ layout: article-toc
 
 ## Overview
 
-These FAQs, grouped by topic, are designed to support queries regarding the Hornbill AI (HAi) model and how HAi operates. 
+These FAQs, grouped by topic, are designed to support queries regarding the Hornbill AI (HAi) model and how HAi operates.
 
 HAi uses third-party AI Providers, including OpenAI and Azure OpenAI, for certain AI capabilities.
 
 Hornbill is responsible for the HAi application, including the data and context supplied to the AI service, application-level access controls, orchestration, guardrails, human approval mechanisms and auditability.
 
-The third-party AI Provider is responsible for the underlying AI model, including its model training, model-level safety controls and model-level fairness and bias evaluation. 
+The third-party AI Provider is responsible for the underlying AI model, including its model training, model-level safety controls and model-level fairness and bias evaluation.
 
 The respective responsibilities are governed by the applicable contractual and data-processing arrangements.
 
@@ -22,9 +22,9 @@ The usage of Hornbill AI is governed by the [Hornbill Artificial Intelligence Ag
 
 ## Current status and availability
 
-As of Q3'26, HAi is available to a closed group of customers who are providing feedback and usage date to Hornbill for HAi optimization. We expect HAi General Availability (GA) to be Q4'26. 
+Access to HAi is currently by request only. This request can be made through the [Hornbill Success Portal](https://success.hornbill.com/hornbill) or by contacting your Hornbill customer success representative.
 
-HAi terms will be part of standard contracts for new customers. 
+HAi terms will be part of standard contracts for new customers.
 
 Existing customers will be required to sign the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) and complete a Hornbill Academy Learning Path before HAi is enabled in their instances.
 
@@ -160,7 +160,7 @@ For related information published by OpenAI, see:
 
 - [OpenAI Model Spec](https://model-spec.openai.com/2026-08-18.html) documents intended model behavior, including fairness, objectivity, uncertainty and safety.
 
-- [OpenAI: Evaluating fairness in ChatGPT](https://openai.com/index/evaluating-fairness-in-chatgpt/?utm_source=chatgpt.com) OpenAI describes an actual fairness evaluation looking at differences in responses associated with gender and race. 
+- [OpenAI: Evaluating fairness in ChatGPT](https://openai.com/index/evaluating-fairness-in-chatgpt/?utm_source=chatgpt.com) OpenAI describes an actual fairness evaluation looking at differences in responses associated with gender and race.
 
 ### How does HAi address potential bias and discrimination?
 
@@ -220,7 +220,7 @@ However, the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.c
 
 ### What regulations, standards and certifications apply to HAi?
 
-HAi is an application provided by Hornbill and uses third-party AI Providers, including OpenAI and Azure OpenAI, for certain AI functionality. 
+HAi is an application provided by Hornbill and uses third-party AI Providers, including OpenAI and Azure OpenAI, for certain AI functionality.
 
 Certifications applicable to the underlying AI service apply to the relevant AI Provider and service rather than representing certification of the individual AI model or HAi itself.
 
@@ -232,7 +232,7 @@ HAi is governed by Hornbill's Subscription Agreement, applicable Data Processing
 
 The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) defines applicable Data Protection Legislation as including the GDPR, UK GDPR and Data Protection Act 2018.
 
-Where Customer Data contains Protected Data, the Customer instructs Hornbill to process that data for the additional purpose of providing HAI functionality and HAI Output. 
+Where Customer Data contains Protected Data, the Customer instructs Hornbill to process that data for the additional purpose of providing HAI functionality and HAI Output.
 
 Hornbill uses AI Providers, including OpenAI and Azure OpenAI, to provide certain HAI functionality.
 
@@ -246,7 +246,7 @@ The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/
 
 ### How can incorrect personal data be updated?
 
-The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) does not specify a separate HAI process for correcting personal data or handling data-subject rectification requests. 
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) does not specify a separate HAI process for correcting personal data or handling data-subject rectification requests.
 
 As personal data resides in areas of Hornbill, outside of HAi, it is the responsibility of the customer to maintain their data across Hornbill.
 
@@ -280,7 +280,7 @@ The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/
 
 ### How does Hornbill maintain compliance as regulations and requirements evolve?
 
-The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) provides for updates to the HAI Terms where required, including updates required by law. 
+The [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf) provides for updates to the HAI Terms where required, including updates required by law.
 
 Where a modification materially affects the Customer's rights or obligations, Hornbill will provide at least 30 days' prior written notice before the modification takes effect, subject to the exceptions set out in the [Hornbill Artificial Intelligence Agreement](https://www.hornbill.com/hubfs/Website/PDF/HAI%20Agreement.pdf).
 
