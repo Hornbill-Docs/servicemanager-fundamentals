@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "1.2.1",
+  "version": "1.3.0",
 
   "audience": [
     "public"
@@ -167,6 +167,16 @@
            {
             "text": "Access control",
             "link": "servicemanager-fundamentals/asset-management/access-control"
+          }
+        ]
+      },
+      {
+        "text": "Knowledge Management",
+        "draft": true,
+        "items": [
+          {
+            "text": "Overview",
+            "link": "servicemanager-fundamentals/knowledge-management/overview"
           }
         ]
       },
