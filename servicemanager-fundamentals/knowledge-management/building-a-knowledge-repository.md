@@ -1,18 +1,14 @@
----
-status: draft
----
-
 # Building Your Knowledge Repository
 
 ## A home for your organization's knowledge
 
-With Hornbill, any team can have its own knowledge base, so a service desk, an HR team, or a security team can each capture, curate, and share knowledge in the way that works for them. Everything in your knowledge bases can be found through Hornbill's global search, and users can browse by topic or search by keyword from a single Search/Browse view. Articles can also link out to external content, and Hornbill's platform integrations include cloud storage services such as Microsoft OneDrive, Google Drive, and Dropbox. Hornbill does not currently provide a native, federated search across external repositories such as SharePoint, so if a single combined view of those sources is a firm requirement, it's worth confirming the current position with your Hornbill contact.
+With Hornbill, any team can have its own knowledge base, so a service desk, an HR team, or a security team can each capture, curate, and share knowledge in the way that works for them. Everything in your knowledge bases can be found through Hornbill's global search, and users can browse by topic or search by keyword from a single Search/Browse view. Articles can also link out to external content.
 
-**Learn more:** [Welcome to Hornbill Knowledge](/servicemanager-user-guide/knowledge/overview/welcome) | [Search/Browse](/servicemanager-user-guide/knowledge/search-and-browse) | [Hornbill Integrations](/esp-fundamentals/about/hornbill-integrations)
+**Learn more:** [Welcome to Hornbill Knowledge](/servicemanager-user-guide/knowledge/overview/welcome) | [Search/Browse](/servicemanager-user-guide/knowledge/search-and-browse)
 
-## Different types of knowledge, each with its own template
+## Different types of knowledge
 
-Every article is created as a particular article type, and Service Manager comes with seven example types that you can edit, remove, or add to. Administrators can then create article templates and link them to one or more types, so a procedure, an FAQ, or a set of user instructions each starts from the right structure. Each article type has its own name, description, icon, and status, and types can be used for filtering, searching, and controlling some aspects of visibility.
+Every article is created as a particular article type, and Service Manager comes with several example types that you can edit, remove, or add to. Administrators can then create article templates and link them to one or more types, so a procedure, an FAQ, or a set of user instructions each starts from the right structure. Each article type has its own name, description, icon, and status, and types can be used for filtering, searching, and controlling some aspects of visibility.
 
 **Learn more:** [Article Types](/servicemanager-config/knowledge/article-types) | [Article Templates](/servicemanager-config/knowledge/article-templates)
 

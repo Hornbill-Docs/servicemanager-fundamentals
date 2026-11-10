@@ -1,6 +1,3 @@
----
-status: draft
----
 # Knowledge Management Overview
 
 Good knowledge management means the right answer reaches the right person at the right moment, whether that's an analyst working an incident or a user trying to solve a problem themselves. This guide walks through the core capabilities of Hornbill Service Manager that support effective knowledge management, from building and organizing your knowledge through to measuring how well it works and keeping it up to date.

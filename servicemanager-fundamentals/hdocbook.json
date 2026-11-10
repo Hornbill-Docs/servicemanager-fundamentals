@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "1.3.0",
+  "version": "1.4.0",
 
   "audience": [
     "public"
@@ -172,11 +172,34 @@
       },
       {
         "text": "Knowledge Management",
-        "draft": true,
         "items": [
           {
             "text": "Overview",
             "link": "servicemanager-fundamentals/knowledge-management/overview"
+          },
+          {
+            "text": "Building a Knowledge Repository",
+            "link": "servicemanager-fundamentals/knowledge-management/building-a-knowledge-repository"
+          },
+          {
+            "text": "Controlling Knowledge Access",
+            "link": "servicemanager-fundamentals/knowledge-management/controlling-knowledge-access"
+          },
+          {
+            "text": "Creating Knowledge",
+            "link": "servicemanager-fundamentals/knowledge-management/creating-knowledge"
+          },
+          {
+            "text": "Putting Knowledge to Work",
+            "link": "servicemanager-fundamentals/knowledge-management/putting-knowledge-to-work"
+          },
+          {
+            "text": "Feedback and Continuous Improvement",
+            "link": "servicemanager-fundamentals/knowledge-management/feedback-and-continuous-improvement"
+          },
+          {
+            "text": "Life Cycle and Governance",
+            "link": "servicemanager-fundamentals/knowledge-management/life-cycle-and-governance"
           }
         ]
       },

@@ -1,7 +1,3 @@
----
-status: draft
----
-
 # Putting Knowledge to Work
 
 ## Knowledge where people are working
@@ -12,6 +8,6 @@ Knowledge is built into the self-service experience and into the Intelligent Cap
 
 ## Finding the right article quickly
 
-Search results show a match percentage, the knowledge base and article type, and counts of views, likes, dislikes, and shares, so users can judge relevance and usefulness at a glance. Within Browse, users navigate the topic structure on one side and read the article on the other. If specific sort or filter options, such as newest first, are a firm requirement, it's worth confirming the current options with your Hornbill contact.
+Search results show the article's summary, knowledge base and article type. Within Browse, users navigate the topic structure on one side and read the article on the other.
 
 **Learn more:** [Search/Browse](/servicemanager-user-guide/knowledge/search-and-browse)
