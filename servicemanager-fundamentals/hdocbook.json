@@ -4,7 +4,7 @@
   "description": "The why and what of Service Manager",
   "publicSource": "https://github.com/Hornbill-Docs/servicemanager-fundamentals.git",
   "productFamily": "com.hornbill.servicemanager",
-  "version": "1.4.0",
+  "version": "1.5.0",
 
   "audience": [
     "public"
@@ -65,33 +65,27 @@
           },
           {
             "text": "Diagnosis and Collaboration",
-            "link": "servicemanager-fundamentals/incident-management/diagnosis-and-collaboration",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/diagnosis-and-collaboration"
           },
           {
             "text": "Major Incidents",
-            "link": "servicemanager-fundamentals/incident-management/major-incidents",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/major-incidents"
           },
           {
             "text": "Assignments, Notifications, and Service Levels",
-            "link": "servicemanager-fundamentals/incident-management/assignments-notifications-service-levels",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/assignments-notifications-service-levels"
           },
           {
             "text": "Self Service for Users",
-            "link": "servicemanager-fundamentals/incident-management/self-service",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/self-service"
           },
           {
             "text": "Resolution and Closure",
-            "link": "servicemanager-fundamentals/incident-management/resolution-closure",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/resolution-closure"
           },
           {
             "text": "Reporting and Continuous Improvement",
-            "link": "servicemanager-fundamentals/incident-management/reporting-continuous-improvement",
-            "draft": true
+            "link": "servicemanager-fundamentals/incident-management/reporting-continuous-improvement"
           }
         ]
       },
