@@ -1,6 +1,3 @@
----
-status: draft
----
 # Feedback and Continuous Improvement
 
 ## Measuring how useful knowledge is
