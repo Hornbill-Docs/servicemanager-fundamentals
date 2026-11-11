@@ -10,7 +10,7 @@ Hornbill's reporting and dashboards let you define, measure, and report on first
 
 Time and effort spent resolving incidents can be captured using Hornbill's Timesheet Manager, giving cost center managers visibility of support effort for individual incidents or in aggregate over time. This data can then feed into your existing finance or invoicing processes where required.
 
-**Learn more:** [Timesheet Manager Configuration Guide](/timesheetmanager-config/index)
+**Learn more:** Timesheet Manager Configuration Guide
 
 ## Post-incident reviews
 
