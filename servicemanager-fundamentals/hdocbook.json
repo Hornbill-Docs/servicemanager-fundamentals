@@ -124,7 +124,6 @@
       },
       {
         "text": "Asset Management",
-        "draft": true,
         "items": [
           {
             "text": "Overview",
@@ -136,31 +135,38 @@
           },
           {
             "text": "Building the asset register",
-            "link": "servicemanager-fundamentals/asset-management/building-the-asset-register"
+            "link": "servicemanager-fundamentals/asset-management/building-the-asset-register",
+            "draft": true
           },
           {
             "text": "Classification and structure",
-            "link": "servicemanager-fundamentals/asset-management/classification-and-structure"
+            "link": "servicemanager-fundamentals/asset-management/classification-and-structure",
+            "draft": true
           },
           {
             "text": "Procurement, vendors, and inventory",
-            "link": "servicemanager-fundamentals/asset-management/procurement-vendors-and-inventory"
+            "link": "servicemanager-fundamentals/asset-management/procurement-vendors-and-inventory",
+            "draft": true
           },
           {
             "text": "Keeping assets connected to your processes",
-            "link": "servicemanager-fundamentals/asset-management/keeping-assets-connected-to-your-processes"
+            "link": "servicemanager-fundamentals/asset-management/keeping-assets-connected-to-your-processes",
+            "draft": true
           },
           {
             "text": "Software and mobile asset management",
-            "link": "servicemanager-fundamentals/asset-management/software-and-mobile-asset-management"
+            "link": "servicemanager-fundamentals/asset-management/software-and-mobile-asset-management",
+            "draft": true
           },
           {
             "text": "End of life disposal",
-            "link": "servicemanager-fundamentals/asset-management/end-of-life-disposal"
+            "link": "servicemanager-fundamentals/asset-management/end-of-life-disposal",
+            "draft": true
           },
            {
             "text": "Access control",
-            "link": "servicemanager-fundamentals/asset-management/access-control"
+            "link": "servicemanager-fundamentals/asset-management/access-control",
+            "draft": true
           }
         ]
       },
