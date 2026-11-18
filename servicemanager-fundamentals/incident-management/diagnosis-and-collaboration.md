@@ -12,6 +12,12 @@ Hornbill Knowledge lets agents — and, where appropriate, end users — search 
 
 **Learn more:** [Welcome to Hornbill Knowledge](/servicemanager-user-guide/knowledge/overview/welcome) | [Knowledge Search / Browse](/servicemanager-user-guide/knowledge/search-and-browse)
 
+## Using HAi to diagnose incidents
+
+HAi (Hornbill Artificial Intelligence) can be used to automatically suggest relevant knowledge articles and problem records based on the incident's details, helping agents to quickly identify potential solutions and reduce resolution times.
+
+![HAi Diagnosis](/_books/servicemanager-fundamentals/incident-management/images/hai-diagnosis.png)
+
 ## Remote diagnostic tools
 
 Remote support tools, such as TeamViewer, can be launched directly from an incident, with session details captured back into the record — so diagnostic activity and its outcome stay together with the rest of the incident's history.
