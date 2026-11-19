@@ -12,8 +12,12 @@ Every article is created as a particular article type, and Service Manager comes
 
 **Learn more:** [Article Types](/servicemanager-config/knowledge/article-types) | [Article Templates](/servicemanager-config/knowledge/article-templates)
 
-## Organizing knowledge into topics
+## Organizing knowledge
 
 Within each knowledge base, you can build a hierarchical topic structure that groups articles logically and makes it easy for people to navigate to what they need. Topics can be marked as Active, In Development, or Retired, and an article is placed into a topic with a simple selection. Together with article types, topics give you flexible ways to organize knowledge around your audiences, whether that's end users, the service desk, IT, or the wider business.
 
-**Learn more:** [Topic Structure](/servicemanager-user-guide/knowledge/knowledge-bases/topic-structure) | [Article Types](/servicemanager-config/knowledge/article-types)
+* **Knowledge bases.** You may want to build out only one knowledge base, or you may want several. There is no limit to how many knowledge bases your organization can have.
+* **Topics.** You can use [topics](/servicemanager-user-guide/knowledge/knowledge-bases/topic-structure) to provide a hierarchical structure that is unique to each knowledge base. Topics are not required, but when you do choose to use them, they provide an easy-to-navigate tree that contains knowledge articles. Topics can be moved around in the structure of a knowledge base, and they can go up to five levels deep.
+* **Articles.** Individual [articles](/servicemanager-user-guide/knowledge/knowledge-bases/articles/configuration) that contain your knowledge content.
+
+![Knowledge Structure](/_books/servicemanager-fundamentals/knowledge-management/images/knowledge-structure.png)
